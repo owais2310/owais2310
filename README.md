@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Owais Ahmad!
+# Hi there 👋 I'm Owais Ahmad!
 
 
 [![Intermediate Student](https://img.shields.io/badge/Student-Intermediate-blue)](https://www.punjabcollege.edu/)
