@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Owais Ahmad!
 
+
+[![Intermediate Student](https://img.shields.io/badge/Student-Intermediate-blue)](https://www.punjabcollege.edu/)
+[![DevOps Learner](https://img.shields.io/badge/DevOps-Learning-brightgreen)](https://roadmap.sh/devops)
+[![Python Explorer](https://img.shields.io/badge/Python-Explorer-yellow?logo=python&logoColor=fff)](https://www.python.org/)
+
+
 A passionate student at Punjab College currently navigating the exciting world of DevOps. I'm in my intermediate studies and eager to learn and contribute to the tech community.
 
 **What I'm Currently Exploring:**
